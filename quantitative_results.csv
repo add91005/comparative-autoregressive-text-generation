@@ -1,0 +1,5 @@
+Model,Params,Epochs,Train time (s),Train loss,Best val loss,Test loss,Test perplexity,Test top-1 acc,Test top-5 acc
+SimpleRNN,1574896,11,226.6,4.071,4.772,4.75,115.6,0.2036,0.4083
+BiRNN,1566704,9,184.5,4.262,4.859,4.849,127.6,0.1961,0.3951
+LSTM,1673584,15,615.5,4.252,4.799,4.774,118.4,0.2028,0.4087
+GRU,1641072,12,493.0,4.0,4.735,4.702,110.2,0.2092,0.4154
